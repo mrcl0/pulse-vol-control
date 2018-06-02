@@ -1,6 +1,6 @@
 # Pulseaudio CLI volume control
 Simple app to control volume in terminal
 
-##Todo
+## Todo
 * Status bar
 * Changeable sink index
