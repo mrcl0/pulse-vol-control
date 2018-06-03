@@ -8,6 +8,16 @@ Simple app to control volume via terminal
 <kbd>down</kbd> or <kbd>s</kbd> - Change device <br />
 <kbd>q</kbd> or <kbd>CTRL-C</kbd> - Quit <br />
 
+## How to install
+```
+pip install pvol
+```
+
+## Running
+```
+pvol
+```
+
 ## Screenshot
 
 ![screenshot](https://github.com/mrcl0/pulse-vol-control/blob/master/img/Screenshot.png)
