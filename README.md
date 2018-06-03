@@ -1,6 +1,7 @@
 # Pulseaudio CLI volume control
-Simple app to control volume in terminal
+Simple app to control volume via terminal
 
-## Todo
-* Status bar
-* Changeable sink index
+## Build With
+
+* [Pulsectl](https://pypi.org/project/pulsectl/) - Bindings for PulseAudio
+
